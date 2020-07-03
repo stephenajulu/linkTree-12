@@ -27,6 +27,11 @@ html, body{
     background-image: linear-gradient(to right, teal , cyan);
 }
 
+a:hover {
+    background-color: teal;
+    background-image: linear-gradient(to right, teal , green);
+}
+
 .footer {
     text-align: center;
 }
